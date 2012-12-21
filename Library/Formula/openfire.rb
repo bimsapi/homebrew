@@ -1,7 +1,6 @@
 require 'formula'
 
-# Documentation: https://github.com/mxcl/homebrew/wiki/Formula-Cookbook
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
+# Formula to install the generic tar.gz distribution of Openfire - a Java-based XMPP server
 
 class Openfire < Formula
   homepage 'http://www.igniterealtime.org/projects/openfire/index.jsp'
